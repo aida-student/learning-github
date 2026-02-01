@@ -1,2 +1,3 @@
 # learning-github
-Assignment
+Учебный репозиторий для изучения Git и GitHub.
+
